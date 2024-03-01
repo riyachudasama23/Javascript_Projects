@@ -4,4 +4,4 @@
 2) Quiz App
 3) Calculator
 4) Registration Form
-5) Rock Paper Scissors
+5) Rock Paper Scissor
